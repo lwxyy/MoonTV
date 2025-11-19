@@ -79,6 +79,11 @@
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
-    }
+    },
+     "api_57": {
+            "name": "AV-奥斯卡资源",
+            "api": "https://aosikazy.com/api.php/provide/vod",
+            "detail": "https://aosikazy.com"
   }
+
 }
