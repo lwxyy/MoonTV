@@ -80,16 +80,13 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
     },
-     "api_57": {
-            "name": "AV-奥斯卡资源",
-            "api": "https://aosikazy.com/api.php/provide/vod",
-            "detail": "https://aosikazy.com"
-  },
-        "api_52": {
-            "name": "AV-91麻豆",
-            "api": "https://91md.me/api.php/provide/vod",
-            "detail": "https://91md.me"
-        }
-
+    "bdzy": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "AV-91麻豆"
+    },
+    "bdzy": {
+      "api": "https://www.msnii.com/api/json.php",
+      "name": "AV-美少女资源"
+    }
+  }
 }
-
