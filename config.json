@@ -84,6 +84,12 @@
             "name": "AV-奥斯卡资源",
             "api": "https://aosikazy.com/api.php/provide/vod",
             "detail": "https://aosikazy.com"
-  }
+  },
+        "api_52": {
+            "name": "AV-91麻豆",
+            "api": "https://91md.me/api.php/provide/vod",
+            "detail": "https://91md.me"
+        }
 
 }
+
